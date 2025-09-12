@@ -30,6 +30,6 @@ I’m building this repository to:
 ## 🔗 How to Use  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/python.git
+   git clone https://github.com/bhavishya-11/python.git
 2. Open any lecture file in your favorite IDE (VS Code, PyCharm, Jupyter).
 3. Run the code and tweak it to experiment!
